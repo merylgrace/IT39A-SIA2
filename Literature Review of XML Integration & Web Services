@@ -1,22 +1,3 @@
-Goals	
-Students will conduct a literature review to evaluate and compare web services and XML integration, focusing on their advantages, best prcatices, and 
-real-world applications.	
-
-Roles	
-You act as researchers analyzing existing studies, journal articles, and technical documentation.
-
-Audience	
-Your audience is an instructor, professionals software development and system integration.	
-
-Situation	
-Students must independently find, analyze, and synthesize literature from credible sources to compare web services and XML integration in terms of 
-their effectivess, best practices, and use cases.	
-
-Products/Performance/Output	
-A research paper, or comparative analysis report, or if you prefer a presentation-(provide the link for me to view it) synthesizing literature findings 
-and providing well-supported evaluations.			
-
-
 Goals
 - To conduct a literature review about web services and XML integration.
 - To evaluate web services and XML integration.
@@ -24,7 +5,7 @@ Goals
 
 Roles
 - I am a researcher analyzing existing studies, journal articles, and technical documentation.
-- I am also an academic searching about web services and XML integration to do a comparative report.
+- I am also an academic searching about web services and XML integration to do a presentation.
 
 Audience
 - My instuctor
@@ -34,3 +15,12 @@ Audience
 Situation
 - I am searching for credible sources about web services and XML integration to analyze and synthesize so I can compare the two in terms of their effectiveness,
 best practices, and use cases.
+
+Products/Performance/Output	
+Presentation Link: https://www.canva.com/design/DAGdwOahm3w/tZiKFR24uRUcb-wFlhUQAg/view?utm_content=DAGdwOahm3w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5d23a91c85
+
+References
+https://www.techtarget.com/searchapparchitecture/definition/Web-services
+https://help.sap.com/doc/saphelpiis_studio_1702/2017.02/en-US/KTP/Products/bf889ebdf45d4dd19d4a0e0bd39a07fb/DeveloperDesktop/WebServices/ESS_CON_ExternalWebServiceIntegration.html
+https://www.ibm.com/docs/en/db2-for-zos/12?topic=SSEPEK_12.0.0/intro/src/tpc/db2z_soaxmlandwebservices.htm
+https://www.w3schools.com/xml/xml_services.asp
